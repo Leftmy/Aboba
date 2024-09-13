@@ -1,0 +1,16 @@
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.Form1.resources
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.csproj.GenerateResource.cache
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.AssemblyInfoInputs.cache
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.AssemblyInfo.cs
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.csproj.CoreCompileInputs.cache
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\bin\Debug\net8.0-windows\ProjectManagment.exe
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\bin\Debug\net8.0-windows\ProjectManagment.deps.json
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\bin\Debug\net8.0-windows\ProjectManagment.runtimeconfig.json
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\bin\Debug\net8.0-windows\ProjectManagment.dll
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\bin\Debug\net8.0-windows\ProjectManagment.pdb
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.dll
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\refint\ProjectManagment.dll
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.pdb
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ProjectManagment.genruntimeconfig.cache
+C:\Users\5\Desktop\ProjectManagment\ProjectManagment\obj\Debug\net8.0-windows\ref\ProjectManagment.dll
